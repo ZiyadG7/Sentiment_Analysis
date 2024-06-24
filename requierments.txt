@@ -1,0 +1,16 @@
+# Data processing and manipulation
+pandas
+numpy
+
+# Machine learning libraries
+scikit-learn
+#tensorflow==2.7.0 #Not used in the current version
+
+# Text processing libraries
+nltk
+
+# Flask for backend API
+flask
+
+# Jupyter for notebooks
+jupyter
